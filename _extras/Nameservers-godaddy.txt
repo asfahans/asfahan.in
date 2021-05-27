@@ -1,0 +1,7 @@
+Nameservers: asfahan.in
+Last updated 27-05-2021 11:19 AM
+
+Using default nameservers  
+Nameserver
+ns59.domaincontrol.com
+ns60.domaincontrol.com
